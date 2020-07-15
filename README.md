@@ -25,4 +25,4 @@ Steps to run program:-
 --> Use mouse more than Enter key  
 --> While using this project do give credits  
 --> If having any problem with this code feel free to mail me at "singhdevendra818@gmail.com"
---> Designing of the login paage was done by Anjnesh vasudeva.
+--> Designing of the login page was done by Anjnesh vasudeva.
